@@ -7,7 +7,7 @@
 -----
 
 ### Contact information
-- Phone: +375(29)1990098
+- Phone: +375(29)3987605
 - Addess:	Belarus, Minsk
 - Email: mikalai.kavalionak@gmail.com
 - Discord: Николай123#8114
