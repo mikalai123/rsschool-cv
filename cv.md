@@ -6,27 +6,28 @@
 
 -----
 
-### Contact information
+## Contact information
 ```
 - Phone: +375(29)3987605
 - Addess:	Belarus, Minsk
 - Email: mikalai.kavalionak@gmail.com
 - Discord: Николай123#8114
 ```
-###Qualities:
+## About me
+####Qualities:
 ```
 - responsibility
 - eager to learn
 - diligence
 - high communication skills and ability to work in a team
 ```
-###Hobbies:
+####Hobbies:
 ```
 - travelling
 - playing sports (football, badminton, etc.)
 - repairing cars
 ```
-###Foreign languages
+####Foreign languages
 ```
 - English level:A2
 ```
