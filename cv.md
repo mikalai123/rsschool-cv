@@ -24,3 +24,6 @@
 - travelling
 - playing sports (football, badminton, etc.)
 - repairing cars
+
+###Foreign languages
+- English level:A2
