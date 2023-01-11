@@ -12,19 +12,19 @@
 - Email: mikalai.kavalionak@gmail.com
 - Discord: Николай123#8114
 
-###Qualities:
+### Qualities:
 
 - responsibility
 - eager to learn
 - diligence
 - high communication skills and ability to work in a team
 
-###Hobbies:
+### Hobbies:
 
 - travelling
 - playing sports (football, badminton, etc.)
 - repairing cars
 
-###Foreign languages:
+### Foreign languages:
 
 -English level:A2
