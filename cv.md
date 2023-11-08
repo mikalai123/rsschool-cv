@@ -4,7 +4,7 @@
 
 ![markdown logo](https://github.com/account)
 
------
+*********
 
 ### Contact information
 - Phone: +375(29)3987605
